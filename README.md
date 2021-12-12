@@ -6,7 +6,7 @@ Just add the following iFrame to your site:
 
 ```html
 <iframe
-  src="https://robog-two.github.io/geometricsun/#50,5"
+  src="https://robog-two.github.io/geometricsun/#50,50"
   width="50"
   height="50"
   scroll="no"
