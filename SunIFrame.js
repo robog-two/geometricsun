@@ -21,7 +21,7 @@ function setup() {
   
   radius = 0.35 * smallest;
   flareRad = 0.50 * smallest;
-  repel = 10;
+  repel = 0.1;
   
   colors = [
     color(255, 139, 0),
